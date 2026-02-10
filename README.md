@@ -1,4 +1,8 @@
-# GenZ-ICP converter
+# [GENZ-ICP](https://github.com/cocel-postech/genz-icp) converter to [HDMapping](https://github.com/MapsHD/HDMapping)
+
+## Hint
+
+Please change branch to [Bunker-DVI-Dataset-reg-1](https://github.com/MapsHD/benchmark-GenZ-ICP-to-HDMapping/tree/Bunker-DVI-Dataset-reg-1) for quick experiment.  
 
 ## Intended use 
 
